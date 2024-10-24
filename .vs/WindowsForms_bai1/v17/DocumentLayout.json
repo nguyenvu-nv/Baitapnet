@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\visualcode_net\\WindowsForms_bai1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{957B8269-FED8-46B4-B92B-A4AD9BE18797}|WindowsForms_bai1\\WindowsForms_bai1.csproj|D:\\visualcode_net\\WindowsForms_bai1\\windowsforms_bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{957B8269-FED8-46B4-B92B-A4AD9BE18797}|WindowsForms_bai1\\WindowsForms_bai1.csproj|d:\\visualcode_net\\windowsforms_bai1\\windowsforms_bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{957B8269-FED8-46B4-B92B-A4AD9BE18797}|WindowsForms_bai1\\WindowsForms_bai1.csproj|solutionrelative:windowsforms_bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{957B8269-FED8-46B4-B92B-A4AD9BE18797}|WindowsForms_bai1\\WindowsForms_bai1.csproj|d:\\visualcode_net\\windowsforms_bai1\\windowsforms_bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{957B8269-FED8-46B4-B92B-A4AD9BE18797}|WindowsForms_bai1\\WindowsForms_bai1.csproj|D:\\visualcode_net\\WindowsForms_bai1\\windowsforms_bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{957B8269-FED8-46B4-B92B-A4AD9BE18797}|WindowsForms_bai1\\WindowsForms_bai1.csproj|solutionrelative:windowsforms_bai1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,11 +18,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\visualcode_net\\WindowsForms_bai1\\WindowsForms_bai1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsForms_bai1\\Form1.cs",
+              "ToolTip": "D:\\visualcode_net\\WindowsForms_bai1\\WindowsForms_bai1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsForms_bai1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T07:28:12.894Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -36,18 +48,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T07:28:22.966Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\visualcode_net\\WindowsForms_bai1\\WindowsForms_bai1\\Form1.cs",
-              "RelativeDocumentMoniker": "WindowsForms_bai1\\Form1.cs",
-              "ToolTip": "D:\\visualcode_net\\WindowsForms_bai1\\WindowsForms_bai1\\Form1.cs [Design]",
-              "RelativeToolTip": "WindowsForms_bai1\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T07:28:12.894Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
